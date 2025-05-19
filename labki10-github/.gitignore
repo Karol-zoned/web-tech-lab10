@@ -1,0 +1,23 @@
+# System folders (Windows)
+Cookies/
+Dane aplikacji/
+Menu Start/
+Moje dokumenty/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Szablony/
+Ustawienia lokalne/
+
+# User-specific files
+.bash_history
+.bun/
+.conda/
+.degit/
+.dotnet/
+
+# Project-specific (already in your file)
+node_modules/
+dist/
+.DS_Store
